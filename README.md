@@ -1,6 +1,6 @@
 # FINTECH HOMEWORK 01
 
-![image](./INFO/Signature_White)
+![image](./Signature_White)
 
 
 ## DESCRIPTION
