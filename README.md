@@ -1,6 +1,6 @@
 # FINTECH HOMEWORK 01
 
-![image](/c/users/roset/Desktop/INFO/Signature_White)
+![image](./INFO/Signature_White)
 
 
 ## DESCRIPTION
