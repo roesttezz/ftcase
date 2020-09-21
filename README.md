@@ -1,5 +1,6 @@
 # JPM COIN
-*Lam Nguyen*
+---
+By Lam Nguyen
 
 ![headline](headline.jpg)
 
@@ -8,7 +9,7 @@
 
 
 ## OVERVIEW & ORIGIN
-
+---
 
 
 
@@ -27,7 +28,7 @@ The company's cash flow analysis stated that their free cash flow dropped 57.38%
 
 
 ## BUSINESS ACTIVITIES
-
+---
 
 
 
@@ -138,11 +139,33 @@ The major players in the domain name PayPal, Stripe, Square, Robinhood, and more
 
 
 ## RECOMMENDATIONS
+---
+
+
+
 
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+While offering the JPM Coin exclusively to the institutional customers can be a great start, JPMorgan Chase, at some points, will face the need to introduce a product that is designed to serve the mass public and individual customers before their competitors take up all the market capitalization in the retail investors market.
+
+JPMorgan Chase must keep in mind that any other financial institutions of their size and reputation can do whatever they are doing and the only way to tackle that challenge is to continuously innovate and disrupt their technology and services.
+
+Additionally, fintech industry is a new industry that is made up of the 2 long-known fields of finance and technology. If possible, JPMorgan Chase should be looking for that kind of treasure that everyone else is missing, the hidden gem that lies in the future of fintech that is unique, is revolutionary, and is the only one of their kind.
+
+
+
+
 ### Why do you think that offering this product or service would benefit the company?
 
+The company is trying to create a financial ecosystem that is developed under the name of Morgan Chase. As the company is one of the biggest in its industry, it obviously has the resources to build and to boost its product into such system to become the apple of the finance industry.
+
+While it may benefit the company as JPM Coin is kept solely for circulation within the U.S., it may take more time and greater adaptation for the coin to integrate into the global financial system. No success comes in the first day but as JPMorgan Chase knows how to leverage their profounding advantages, JPM Coin will thrive.
+
+
+
 ### What technologies would this additional product or service utilize?
+
+AML and KYC have been stated as one of the thing that JPMorgan Chase hopes to further address in the introduction of JPM Coin. Biological identification like what the new generation smartphones are doing, in combination with the digital coin, can supplement each other in the battle agaisnt fraud and financial crimes.
+
 
 ### Why are these technologies appropriate for your solution?
