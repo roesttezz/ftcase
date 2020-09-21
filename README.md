@@ -2,7 +2,7 @@
 ---
 By Lam Nguyen
 
-![headline](headline.jpg)
+![](headline.jpg)
 
 
 
@@ -56,7 +56,7 @@ The intended customers are now limited to institutional customers, meaning that 
 
 Because of JP Morgan's position as one of the largest banks in the world, JPM Coin can cover a huge market capitalization of stablecoin that may make the firm "*largest stablecoin issuer on a blockchain*" with just one small and limited issuance.
 
-![image](C:\Users\roset\Desktop\ftcase\images\market size)
+![0.1% and 1% of JPMorgan Chase balance sheet in comparison with total stable coin market size](market.png)
 
 The current stablecoin market size falls around $2.7B, meaning that 0.1% of JP Morgan Chase's balance sheet of $2.6T would make up aroughly 96% of the current market size.
 
@@ -87,7 +87,7 @@ JPM Coin uses Quorum blockchain technology, which is an enterprise blockchain th
 2. Speed and scalability
 3. Restricted access to authorized entities
 
-![image](quorum architecture)
+![Quorum Architecture by BlockGeeks](quorum.jpg)
 
 Enterprise features are integrated into the Quorum architecture to perform and meet the fore-mentioned requirements in business operation. The Quorum architecture includes elements that are designed to specifically support the enterprise's need, including:
 
