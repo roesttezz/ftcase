@@ -1,7 +1,7 @@
 # JPM COIN
 *Lam Nguyen*
 
-![image](headline)
+![image](headline.jpg)
 
 
 
@@ -55,7 +55,7 @@ The intended customers are now limited to institutional customers, meaning that 
 
 Because of JP Morgan's position as one of the largest banks in the world, JPM Coin can cover a huge market capitalization of stablecoin that may make the firm "*largest stablecoin issuer on a blockchain*" with just one small and limited issuance.
 
-![image](market size)
+![image](C:\Users\roset\Desktop\ftcase\images\market size)
 
 The current stablecoin market size falls around $2.7B, meaning that 0.1% of JP Morgan Chase's balance sheet of $2.6T would make up aroughly 96% of the current market size.
 
