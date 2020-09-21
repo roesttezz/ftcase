@@ -38,8 +38,8 @@ https://www.jpmorgan.com/global/news/digital-coin-payments
 JPMorgan Chase wants to transform itself through the innovation of payments, specifically digital currency payments between institutional banks, with the hope to solve the delayed trade settlement time after every smart contract and to add further regulation and security to the new method of digital transfer.
 
 As JPMorgan Chase clearly stated that their stance over the cryptocurrencies remains supportive as long as proper regulations and control are implemented, their new digital currency also strived its best to meet such expectations. Specifically, JPM Coin is believed to solve 4 main concerns while benefiting the customers, as retrieved from their digital coin payments website:
----
-1. **Strong Balance Sheet** of $2.6 trillion ensures stability and fiat
+
+> 1. **Strong Balance Sheet** of $2.6 trillion ensures stability and fiat
 2. **Security & Innovation** upheld by millions of dollars on cybersecurity each year and a Blockchain Center of Excellence
 3. **Strong Controls & Compliance** through AML and KYC controls
 4. **Regulatory Oversight** through the compliance with banking laws and regulations and supervision of baking regulators and international jurisdictions
