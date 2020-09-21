@@ -1,7 +1,7 @@
 # JPM COIN
 *Lam Nguyen*
 
-![image](headline.jpg)
+![headline](headline.jpg)
 
 
 
