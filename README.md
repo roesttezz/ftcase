@@ -2,7 +2,7 @@
 ---
 By Lam Nguyen
 
-![headline](ftcase/headline.jpg)
+![headline](ftcase/images/headline.jpg)
 
 
 
