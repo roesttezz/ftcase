@@ -2,7 +2,7 @@
 ---
 By Lam Nguyen
 
-![](headline.jpg)
+![](ftcase/headline.jpg)
 
 
 
@@ -114,6 +114,7 @@ Privacy Manager or Private Transaction Manager allow the nodes to share transact
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
 
 ### What are the other major companies in this domain?
+https://www.researchgate.net/publication/342663281_Fintech%27s_Impact_on_Payments_Domain
 
 JPM Coin is a future payment solution for institutions, developing in the fintech domain of billing and payment. Even though it is considered as one of the most mature domain in the industry with multiple startups and continuous innovations, this particular domain is still in its early phase of development.
 
