@@ -87,7 +87,7 @@ JPM Coin uses Quorum blockchain technology, which is an enterprise blockchain th
 2. Speed and scalability
 3. Restricted access to authorized entities
 
-![Quorum Architecture by BlockGeeks](./images/quorum.jpg)
+![Quorum Architecture by BlockGeeks](./images/quorum.webp)
 
 Enterprise features are integrated into the Quorum architecture to perform and meet the fore-mentioned requirements in business operation. The Quorum architecture includes elements that are designed to specifically support the enterprise's need, including:
 
@@ -104,7 +104,7 @@ Privacy Manager or Private Transaction Manager allow the nodes to share transact
 
 
 ## LANDSCAPE
-
+---
 
 
 
