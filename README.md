@@ -23,7 +23,7 @@ JPM Coin is a digital, fiat currency that hopes to transform payments between in
 
 While it is unclear whether exactly how much the company invested in the creation of the new coin, its financial statements give us some hints about how dedicated JPMorgan Chase has been in the research and development of this product and bringing it into real practice.
 
-![JPMorgan Chase's 2019 Annual Report, Consolidated Cash Flow analysis][./images/cf.png]
+![JPMorgan Chase's 2019 Annual Report, Consolidated Cash Flow analysis](./images/cf.png)
 
 In JPMorgan Chase's 2019 Annual Report, the company's cash flow analysis stated that their free cash flow dropped 57.38% from $14,187B in 2018 to $6,046B in 2019, in which both numbers accounted for the company's spending in operating activities, signaling the company's investment in organic development. But money wasn't everything that the firm needed to invest into the project. Throughout the development of JPM Coin, the firm has been actively recruiting employees through their internship and associate program, offering multiple positions in direct relation with blockchain technology, while seemingly forming partnerships with fintech infrastructure designers and engineers.
 
