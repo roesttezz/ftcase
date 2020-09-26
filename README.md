@@ -40,9 +40,9 @@ In JPMorgan Chase's 2019 Annual Report, the company's cash flow analysis stated 
 ### What financial problems is the company or project trying to solve?
 https://www.jpmorgan.com/global/news/digital-coin-payments
 
-JPMorgan Chase wants to transform itself trying to disrupt its traditional payment method through digital currency payments between institutional banks, with the hope to solve the delayed trade settlement time after every smart contract and to add further regulation and security to the new method of digital transfer.
-> 1. Settlement time
-> 2. Rules and regulations
+JPMorgan Chase wants to transform itself trying to disrupt its traditional payment method through digital currency payments between institutional banks, with the hope to solve the delayed trade settlement time after every smart contract and to add further regulation and security to the new method of digital transfer. In short, JPM Coin is trying to solve, hopefully, the followings:
+1. Settlement time
+2. Rules and regulations
 
 As JPMorgan Chase clearly stated that their stance over the cryptocurrencies remains supportive as long as proper regulations and control are implemented, their new digital currency also strived its best to meet such expectations. Specifically, JPM Coin is believed to solve 4 main concerns while benefiting the customers, as retrieved from their digital coin payments website:
 
