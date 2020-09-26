@@ -91,9 +91,9 @@ https://research.binance.com/en/analysis/jpmcoin
 https://www.coindesk.com/jpmorgan-has-quietly-rebooted-the-blockchain-tech-behind-its-jpm-coin
 
 JPM Coin uses Quorum blockchain technology, which is an enterprise blockchain that is touched up with different enhancements to make the platform fit for business use. These enhancements are designed to meet the business needs and requirements of:
-> 1. Confidentialy of transactions
-> 2. Speed and scalability
-> 3. Restricted access to authorized entities
+1. Confidentialy of transactions
+2. Speed and scalability
+3. Restricted access to authorized entities
 
 ![Quorum Architecture by BlockGeeks](./images/quorum.webp)
 
@@ -138,26 +138,12 @@ It is obvious that JPM Coin hasn't been out for use. They tested it but all that
 
 JPMorgan Chase stated 4 reasons trying to convince the public why the company's involvement in payment method between banks and other insititutions is a great idea. This also lines out a set of expectation for the coin to meet once it's out for use. Besides such outline, core metrics evaluating its performance can be quite familiar to cryptocurrencies' metrics, including but not limited to:
 
-1. **Usage**
-* How many customers are actively using JPM Coin for their payments?
-* How many transfers and transactions are being made on average?
-
-2. **Network Value**
-* How much of the JPMorgan Chase's balance sheet is being used?
-* How big JPMorgan Chase's stable coin market capitalization is?
-
-3. **Security**
-* How much JPM Coin's hash rate measuring unit of processing power is?
-* How private and secured is JPM Coin based on cybersecurity metrics?
-
-4. **Economics**
-* How much issuance and fees JPM Coin produced on average?
-* How much the transfer value and transfer velocity are?
-
-5. **Distribution**
-* How many addresses with balance over $10,000 does JPM Coin reach?
-* How many JPM Coin the company has left in inventory?
-
+1. Usage
+2. Network Value
+3. Security
+4. Economics
+5. Distribution
+![core metrics](./images/metrics.png)
 
 
 
