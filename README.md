@@ -70,14 +70,14 @@ The current stablecoin market size falls around $2.7B, meaning that 0.1% of JP M
 
 
 
-### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+### What solution does this company offer that their competitors do not or cannot offer?
 https://research.binance.com/en/analysis/jpmcoin
 
 The nature of an incumbent financial institution makes up most of JPM Coin's advantage that its competitors may have little to no chance to compete. But the chances are that JPM Coin will stay in its institutional market for quite a while and such difference in market choice will leave the current participants serving individual customers more time to grow bigger and get more innovative to compete with this giant.
 
 Considering a larger market of stable-coin, JPM Coin may hold a competitive position. As soon as JPM Coin decides to outreach the public market, its mass customer base with incredibly strong balance sheet would have the power to quickly surpass many of the existing competitors. It is undeniable that its readily available resources of capital, cybersecurity, customer base, and established reputation give the firm a great competitive edge in the stable-coin market. But things may change as other giants find their ways to enter the game.
 
-![JPM Coin comparing to SWIFT and Ripple, FXCintelligence](./images/jpm-coin.png)
+![JPM Coin comparing to SWIFT and Ripple, FXCintelligence](./images/jpmcoin.png)
 
 When take a look into potential rivals, there may be less to say about JPM Coin advantages. JPMorgan Chase is obviously a large bank but it is also obvious that as soon as other mega financial institutions step in the game, JPMorgan Chase may see their advantage losing its power rapidly. Those new challengers can directly compete with JPMorgan Chase regarding capital resources, balance sheet, cybersecurity, and customer base. When this happens, their leverage of being either an pioneer or a huge bank will soon fail to help them thrive amid the competitiveness and increasing innovation from others. At this point of the competition, Jamie would be better hoping that the company's coin has made some improvements and differentiate-points to mark themselves out in the customers' eyes. 
 
