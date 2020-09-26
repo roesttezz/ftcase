@@ -37,10 +37,12 @@ In JPMorgan Chase's 2019 Annual Report, the company's cash flow analysis stated 
 
 
 
-### What specific financial problem is the company or project trying to solve?
+### What financial problems is the company or project trying to solve?
 https://www.jpmorgan.com/global/news/digital-coin-payments
 
 JPMorgan Chase wants to transform itself trying to disrupt its traditional payment method through digital currency payments between institutional banks, with the hope to solve the delayed trade settlement time after every smart contract and to add further regulation and security to the new method of digital transfer.
+> 1. Settlement time
+> 2. Rules and regulations
 
 As JPMorgan Chase clearly stated that their stance over the cryptocurrencies remains supportive as long as proper regulations and control are implemented, their new digital currency also strived its best to meet such expectations. Specifically, JPM Coin is believed to solve 4 main concerns while benefiting the customers, as retrieved from their digital coin payments website:
 
@@ -75,6 +77,8 @@ The nature of an incumbent financial institution makes up most of JPM Coin's adv
 
 Considering a larger market of stable-coin, JPM Coin may hold a competitive position. As soon as JPM Coin decides to outreach the public market, its mass customer base with incredibly strong balance sheet would have the power to quickly surpass many of the existing competitors. It is undeniable that its readily available resources of capital, cybersecurity, customer base, and established reputation give the firm a great competitive edge in the stable-coin market. But things may change as other giants find their ways to enter the game.
 
+![JPM Coin comparing to SWIFT and Ripple, FXCintelligence](./images/jpm-coin.png)
+
 When take a look into potential rivals, there may be less to say about JPM Coin advantages. JPMorgan Chase is obviously a large bank but it is also obvious that as soon as other mega financial institutions step in the game, JPMorgan Chase may see their advantage losing its power rapidly. Those new challengers can directly compete with JPMorgan Chase regarding capital resources, balance sheet, cybersecurity, and customer base. When this happens, their leverage of being either an pioneer or a huge bank will soon fail to help them thrive amid the competitiveness and increasing innovation from others. At this point of the competition, Jamie would be better hoping that the company's coin has made some improvements and differentiate-points to mark themselves out in the customers' eyes. 
 
 
@@ -87,9 +91,9 @@ https://research.binance.com/en/analysis/jpmcoin
 https://www.coindesk.com/jpmorgan-has-quietly-rebooted-the-blockchain-tech-behind-its-jpm-coin
 
 JPM Coin uses Quorum blockchain technology, which is an enterprise blockchain that is touched up with different enhancements to make the platform fit for business use. These enhancements are designed to meet the business needs and requirements of:
-1. Confidentialy of transactions
-2. Speed and scalability
-3. Restricted access to authorized entities
+> 1. Confidentialy of transactions
+> 2. Speed and scalability
+> 3. Restricted access to authorized entities
 
 ![Quorum Architecture by BlockGeeks](./images/quorum.webp)
 
