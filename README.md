@@ -131,11 +131,32 @@ In the last 5-10 years, the global finance industry has been transforming toward
 
 ## RESULTS
 ---
+https://securityscorecard.com/blog/9-cybersecurity-metrics-kpis-to-track
+https://coinmetrics.io/coin-metrics-state-of-the-network-issue-59-the-rise-of-stablecoins/
 
 It is obvious that JPM Coin hasn't been out for use. They tested it but all that we have to say about the coin is just how contradict the idea of the coin is to their previous notion of cryptocurrencies. The company is the pioneer but not the pioneer of the industry. However, if done and developed properly, this JPM currency has the power to disrupt whatever there had already been in the banking landscape to bring JPMorgan to the top, or at least guarantee its position as one of the largest financial institution in the states.
 
-Core metrics
+JPMorgan Chase stated 4 reasons trying to convince the public why the company's involvement in payment method between banks and other insititutions is a great idea. This also lines out a set of expectation for the coin to meet once it's out for use. Besides such outline, core metrics evaluating its performance can be quite familiar to cryptocurrencies' metrics, including but not limited to:
 
+> 1. **Usage**
+* How many customers are actively using JPM Coin for their payments?
+* How many transfers and transactions are being made on average?
+
+> 2. **Network Value**
+* How much of the JPMorgan Chase's balance sheet is being used?
+* How big JPMorgan Chase's stable coin market capitalization is?
+
+> 3. **Security**
+* How much JPM Coin's hash rate measuring unit of processing power is?
+* How private and secured is JPM Coin based on cybersecurity metrics?
+
+> 4. **Economics**
+* How much issuance and fees JPM Coin produced on average?
+* How much the transfer value and transfer velocity are?
+
+> 5. **Distribution**
+* How many addresses with balance over $10,000 does JPM Coin reach?
+* How many JPM Coin the company has left in inventory?
 
 
 
