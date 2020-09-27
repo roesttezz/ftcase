@@ -72,6 +72,7 @@ The current stablecoin market size falls around $2.7B, meaning that 0.1% of JP M
 
 ### What solution does this company offer that their competitors do not or cannot offer?
 https://research.binance.com/en/analysis/jpmcoin
+https://www.fxcintel.com/research/general/what-jpmorgans-new-coin-means-for-cross-border-ripple-swift
 
 The nature of an incumbent financial institution makes up most of JPM Coin's advantage that its competitors may have little to no chance to compete. But the chances are that JPM Coin will stay in its institutional market for quite a while and such difference in market choice will leave the current participants serving individual customers more time to grow bigger and get more innovative to compete with this giant.
 
@@ -91,7 +92,7 @@ https://research.binance.com/en/analysis/jpmcoin
 https://www.coindesk.com/jpmorgan-has-quietly-rebooted-the-blockchain-tech-behind-its-jpm-coin
 
 JPM Coin uses Quorum blockchain technology, which is an enterprise blockchain that is touched up with different enhancements to make the platform fit for business use. These enhancements are designed to meet the business needs and requirements of:
-1. Confidentialy of transactions
+1. Confidentiality of transactions
 2. Speed and scalability
 3. Restricted access to authorized entities
 
@@ -155,7 +156,7 @@ JPMorgan Chase stated 4 reasons trying to convince the public why the company's 
 
 
 
-### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+### If you were to advise the company, what products or services would you suggest they offer?
 
 While offering the JPM Coin exclusively to the institutional customers can be a great start, JPMorgan Chase, at some points, will face the need to introduce a product that is designed to serve the mass public and individual customers before their competitors take up all the market capitalization in the retail investors market.
 
@@ -172,3 +173,38 @@ The company is trying to create a financial ecosystem that is developed under th
 
 While it may benefit the company as JPM Coin is kept solely for circulation within the U.S., it may take more time and greater adaptation for the coin to integrate into the global financial system. No success comes in the first day but if JPMorgan Chase knows how to leverage their profounding advantages, JPM Coin will thrive.
 
+
+
+
+## REFERENCE
+---
+
+
+
+
+1. "J.P.Morgan Creates Digital Coin For Payments", JPMorgan Chase official website, February 14, 2019
+https://www.jpmorgan.com/global/news/digital-coin-payments
+
+2. "JPMorgan Chase Free Cash Flow 2006-2020 | JPM", macrotrends,
+https://www.macrotrends.net/stocks/charts/JPM/jpmorgan-chase/free-cash-flow
+
+3. "What JPMorgan’s new coin means for cross-border, Ripple & Swift", FXCintelligence, Valentina Vitali, February 22, 2019,
+https://www.fxcintel.com/research/general/what-jpmorgans-new-coin-means-for-cross-border-ripple-swift
+
+4. "Can JPM Coin Disrupt the Existing Stablecoin Market?", Binance Research, March 1, 2019
+https://research.binance.com/en/analysis/jpmcoin
+
+5. "What Is Quorum Blockchain? A Platform for The Enterprise", Blockgeeks
+https://blockgeeks.com/guides/quorum-a-blockchain-platform-for-the-enterprise/
+
+6. "JPMorgan Quietly Reboots the Blockchain Behind Its JPM Coin Cryptocurrency", coindesk, Ian Allison, May 9, 2019
+https://www.coindesk.com/jpmorgan-has-quietly-rebooted-the-blockchain-tech-behind-its-jpm-coin
+
+7. "Fintech’s Impact on Payments Domain", ResearchGate, Vivek Dubey, March 2020,
+https://www.researchgate.net/publication/342663281_Fintech%27s_Impact_on_Payments_Domain
+
+8. "11 Cybersecurity Metrics & KPIs to Track", SecurityScorecard, Phoebe Fasulo, July 8, 2019
+https://securityscorecard.com/blog/9-cybersecurity-metrics-kpis-to-track
+
+9. "Coin Metrics’ State of the Network: Issue 59 – The Rise of Stablecoins", Coin Metrics, Coin Metrics Team, July 14, 2020
+https://coinmetrics.io/coin-metrics-state-of-the-network-issue-59-the-rise-of-stablecoins/
