@@ -44,7 +44,7 @@ JPMorgan Chase wants to transform itself trying to disrupt its traditional payme
 1. Settlement time
 2. Rules and regulations
 
-As JPMorgan Chase clearly stated that their stance over the cryptocurrencies remains supportive as long as proper regulations and control are implemented, their new digital currency also strived its best to meet such expectations. Specifically, JPM Coin is believed to solve 4 main concerns while benefiting the customers, as retrieved from their digital coin payments website:
+As JPMorgan Chase clearly stated that their stance over the cryptocurrencies remains supportive as long as proper regulations and control are implemented, their new digital currency also strived its best to meet such expectations. Specifically, JPM Coin is believed to solve 4 main concerns while benefiting the customers, as retrieved from their digital coin payments article on JPMorgan Chase offical website:
 
 > 1. **Strong Balance Sheet** of $2.6 trillion ensures stability and fiat
 > 2. **Security & Innovation** upheld by millions of dollars on cybersecurity each year and a Blockchain Center of Excellence
@@ -105,8 +105,8 @@ Quorum nodes used in JPM Coin are forks (*blockchain network's splits*) of geth 
 
 2. **Privacy Manager**
 Privacy Manager or Private Transaction Manager allow the nodes to share transaction information securely between authorized parties within a transaction. Privacy Manager is made up of transaction manager and enclave.
-* **Transaction Manager**: JPM Coin's transaction's manager is Tessera, a Java system that can be used and deployed easily by businesses to encrypt, decrypt, and distribute confidential transactions for Quorum.
-* **Enclave**: Distributed Ledger protocols that can be used for transaction confidentiality, participant authentication, and data preservation.
+* **Transaction Manager** JPM Coin's transaction's manager is Tessera, a Java system that can be used and deployed easily by businesses to encrypt, decrypt, and distribute confidential transactions for Quorum.
+* **Enclave** Distributed Ledger protocols that can be used for transaction confidentiality, participant authentication, and data preservation.
 
 
 
@@ -188,7 +188,7 @@ https://www.jpmorgan.com/global/news/digital-coin-payments
 2. "JPMorgan Chase Free Cash Flow 2006-2020 | JPM", macrotrends,
 https://www.macrotrends.net/stocks/charts/JPM/jpmorgan-chase/free-cash-flow
 
-3. "What JPMorgan’s new coin means for cross-border, Ripple & Swift", FXCintelligence, Valentina Vitali, February 22, 2019,
+3. "What JPMorgan’s new coin means for cross-border, Ripple & Swift", FXCintelligence, Valentina Vitali, February 22, 2019
 https://www.fxcintel.com/research/general/what-jpmorgans-new-coin-means-for-cross-border-ripple-swift
 
 4. "Can JPM Coin Disrupt the Existing Stablecoin Market?", Binance Research, March 1, 2019
@@ -200,7 +200,7 @@ https://blockgeeks.com/guides/quorum-a-blockchain-platform-for-the-enterprise/
 6. "JPMorgan Quietly Reboots the Blockchain Behind Its JPM Coin Cryptocurrency", coindesk, Ian Allison, May 9, 2019
 https://www.coindesk.com/jpmorgan-has-quietly-rebooted-the-blockchain-tech-behind-its-jpm-coin
 
-7. "Fintech’s Impact on Payments Domain", ResearchGate, Vivek Dubey, March 2020,
+7. "Fintech’s Impact on Payments Domain", ResearchGate, Vivek Dubey, March 2020
 https://www.researchgate.net/publication/342663281_Fintech%27s_Impact_on_Payments_Domain
 
 8. "11 Cybersecurity Metrics & KPIs to Track", SecurityScorecard, Phoebe Fasulo, July 8, 2019
